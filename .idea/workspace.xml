@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08054754-e0b7-479a-857b-09ba712431b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/mosh_course_oop/modules.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/arrays.js" afterPath="$PROJECT_DIR$/scripts/colt_steele_course/arrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/LanguageClass.js" afterPath="$PROJECT_DIR$/scripts/LanguageClass.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/RuedaCalculo.js" afterPath="$PROJECT_DIR$/scripts/RuedaCalculo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/chessBackend.js" afterPath="$PROJECT_DIR$/scripts/chessBackend.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +19,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="trees.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/trees.js">
+        <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/trees.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1587">
               <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
@@ -36,19 +31,19 @@
         </entry>
       </file>
       <file leaf-file-name="graphs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/graphs.js">
+        <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/graphs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="sinngly_linked_list.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/sinngly_linked_list.js">
+        <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/sinngly_linked_list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1151">
+            <state relative-caret-position="3542">
               <caret line="156" column="32" lean-forward="true" selection-start-line="156" selection-start-column="32" selection-end-line="156" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc;n#Node#0" expanded="false" />
@@ -57,21 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hashtable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/hashtable.js">
+      <file leaf-file-name="hashtable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/hashtable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="74" column="59" lean-forward="false" selection-start-line="74" selection-start-column="59" selection-end-line="74" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/Andrei Neagoie_webdev_course/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="491">
+              <caret line="81" column="31" lean-forward="false" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -178,8 +163,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="misc" />
@@ -194,10 +190,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data_structures_&amp;_search_algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,16 +261,16 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.hashtable.js">
-    <configuration default="false" name="coleSteele_problems" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/colt_steele_course/coleSteele_problems" working-dir="$PROJECT_DIR$/scripts">
+    <configuration default="false" name="coleSteele_problems" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/coleSteele_problems" working-dir="$PROJECT_DIR$/scripts">
       <method />
     </configuration>
-    <configuration default="false" name="searchalgorightms.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/colt_steele_course/searchalgorightms.js" working-dir="$PROJECT_DIR$/scripts">
+    <configuration default="false" name="searchalgorightms.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/searchalgorightms.js" working-dir="$PROJECT_DIR$/scripts">
       <method />
     </configuration>
-    <configuration default="false" name="sortalgorithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/colt_steele_course/sortalgorithm.js" working-dir="$PROJECT_DIR$/scripts">
+    <configuration default="false" name="sortalgorithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/sortalgorithm.js" working-dir="$PROJECT_DIR$/scripts">
       <method />
     </configuration>
-    <configuration default="false" name="hashtable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="hashtable.js" working-dir="$PROJECT_DIR$/scripts/colt_steele_course">
+    <configuration default="false" name="hashtable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/hashtable.js" working-dir="$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -344,25 +375,25 @@
       <workItem from="1539633667206" duration="5051000" />
       <workItem from="1539654956681" duration="12893000" />
       <workItem from="1539837153995" duration="5006000" />
+      <workItem from="1540190155123" duration="507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76985000" />
+    <option name="totallyTimeSpent" value="77492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29809725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29809725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24898785" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29431817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2939759" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -430,14 +461,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/arrays.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/coleSteele_problems">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/coleSteele_problems">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9085">
           <caret line="395" column="1" lean-forward="true" selection-start-line="395" selection-start-column="1" selection-end-line="395" selection-end-column="1" />
@@ -490,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/coleSteele_problems">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/coleSteele_problems">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8004">
           <caret line="348" column="1" lean-forward="true" selection-start-line="348" selection-start-column="1" selection-end-line="348" selection-end-column="1" />
@@ -550,7 +581,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/coleSteele_problems">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/coleSteele_problems">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8533">
           <caret line="371" column="18" lean-forward="true" selection-start-line="371" selection-start-column="18" selection-end-line="371" selection-end-column="18" />
@@ -565,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/arrays.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
@@ -645,7 +676,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/arrays.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
@@ -697,7 +728,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/arrays.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
@@ -711,32 +742,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/searchalgorightms.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/searchalgorightms.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2484">
           <caret line="110" column="12" lean-forward="false" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/sortalgorithm.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/sortalgorithm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/intermediate_sort_algorithm.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/intermediate_sort_algorithm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#merge#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/exercises_prototypical_inheritance.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/exercises_prototypical_inheritance.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
@@ -747,7 +774,7 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/inheritance.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/data_structure.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/data_structure.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
@@ -788,7 +815,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/coleSteele_problems">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/coleSteele_problems">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
@@ -839,7 +866,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/inheritance.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/inheritance.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -847,7 +874,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/prototypes.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/prototypes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
@@ -857,7 +884,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/objects.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/objects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -865,7 +892,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/stack_queues.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/stack_queues.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
           <caret line="101" column="26" lean-forward="false" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
@@ -875,7 +902,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/prototypical_inheritance.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/prototypical_inheritance.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
@@ -885,7 +912,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/polymorphism.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/polymorphism.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
@@ -895,19 +922,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mosh_course_oop/modules.js">
+    <entry file="file://$PROJECT_DIR$/scripts/OOP/modules.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/sinngly_linked_list.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/sinngly_linked_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1151">
+        <state relative-caret-position="3542">
           <caret line="156" column="32" lean-forward="true" selection-start-line="156" selection-start-column="32" selection-end-line="156" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc;n#Node#0" expanded="false" />
@@ -915,7 +939,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/trees.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/trees.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1587">
           <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
@@ -925,18 +949,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/graphs.js">
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/graphs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/colt_steele_course/hashtable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="74" column="59" lean-forward="false" selection-start-line="74" selection-start-column="59" selection-end-line="74" selection-end-column="59" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -945,6 +961,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/data_structures_&amp;_search_algorithms/hashtable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="81" column="31" lean-forward="false" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
           <folding />
         </state>
       </provider>
