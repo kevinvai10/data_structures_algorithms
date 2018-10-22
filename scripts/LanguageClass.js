@@ -1,4 +1,4 @@
-class SofiaLang {
+ class SofiaLang {
      
     static Load() {
         $("#lenguajemenu").html("<li><span class='fa fa-spinner fa-spin'></span> Cargando...</li>");

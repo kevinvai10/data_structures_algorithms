@@ -368,7 +368,7 @@
         innercirclearr = innercircle.split(",");
         separaroperacion = stringoperacion.split(",");
         outercirclearr = outercircle.split(",");
-        console.log('outercircle', outercirclearr)
+        console.log('outercircle', outercirclearr);
         fillCircle(numero_principal, separaroperacion, innercirclearr, outercirclearr);
     };
 

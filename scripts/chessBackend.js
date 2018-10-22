@@ -1,16 +1,4 @@
-/*var express = require('express');
-var app = express();
-app.use(express.static('public'));
-app.use(express.static('dashboard'));
-var https = require('https');
-var server = https.createServer({
-    key: fs.readFileSync('./public/ssh/server.key'),
-    cert: fs.readFileSync('./public/ssh/star_sofiaxt_com.cer'),
-    requestCert: false,
-    rejectUnauthorized: false
-},app);
-var io = require('socket.io').listen(server);
-var port = process.env.PORT || 3000;*/
+
 
 var express = require('express');
 var app = express();
