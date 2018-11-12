@@ -65,6 +65,66 @@ class BinarySearchTree {
         }
         return false;
     }
+
+    BST(){
+        let queue = [];
+        let visited = [];
+        let current;
+        queue.push(this.root);
+
+        while(queue.length){
+            current = queue.shift();
+            visited.push(current.value);
+
+            if(current.left) queue.push(current.left);
+            if(current.right) queue.push(current.right);
+        }
+
+        return visited;
+    }
+
+    DFSPO(){
+        let visited = [];
+        let currentNode = this.root;
+
+        function _traverse (currentNode){
+            visited.push(currentNode.value);
+            if(currentNode.left) _traverse(currentNode.left);
+            if(currentNode.right) _traverse(currentNode.right);
+        }
+
+        _traverse(currentNode);
+        return visited;
+
+    }
+
+    DFPostOrder(){
+        let visited = [];
+        let currentNode = this.root;
+
+        function _traverse (currentNode){
+            if(currentNode.left) _traverse(currentNode.left);
+            if(currentNode.right) _traverse(currentNode.right);
+            visited.push(currentNode.value);
+        }
+
+        _traverse(currentNode);
+        return visited;
+    }
+
+    DFSInOrder(){
+        let visited = [];
+        let currentNode = this.root;
+
+        function _traverse (currentNode){
+            if(currentNode.left) _traverse(currentNode.left);
+            visited.push(currentNode.value);
+            if(currentNode.right) _traverse(currentNode.right);
+        }
+
+        _traverse(currentNode);
+        return visited;
+    }
 }
 
 
@@ -72,14 +132,23 @@ class BinarySearchTree {
 //   5     13
 // 2  7  11  16
 
-var tree = new BinarySearchTree();
-tree.insert(10)
-tree.insert(5)
-tree.insert(13)
-tree.insert(11)
-tree.insert(2)
-tree.insert(16)
-tree.insert(7)
+let tree = new BinarySearchTree();
+tree.insert(10);
+tree.insert(5);
+tree.insert(13);
+tree.insert(11);
+tree.insert(2);
+tree.insert(16);
+tree.insert(7);
+
+console.log(tree.DFSPO());
+console.log(tree.DFPostOrder());
+console.log(tree.DFSInOrder());
+
+
+
+
+
 
 
 
